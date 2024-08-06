@@ -11,7 +11,8 @@
     "elysia": "latest"
   },
   "devDependencies": {
-    "bun-types": "latest"
+    "bun-types": "latest",
+    "bun": "latest"
   },
   "module": "src/index.js"
 }
