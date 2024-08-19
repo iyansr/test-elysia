@@ -14,5 +14,6 @@
     "bun-types": "latest",
     "bun": "latest"
   },
-  "module": "src/index.js"
+  "module": "src/index.js",
+  "packageManager": "bun@1.1.17"
 }
