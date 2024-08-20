@@ -1,7 +1,7 @@
 import { Elysia } from "elysia";
 
 const container = new Elysia({ name: "container" }).decorate("container", {
-  message: "Hello Elysia",
+  message: "Hello Elysia Updatee",
 });
 
 const home = new Elysia().use(container).get("/", (context) => {
